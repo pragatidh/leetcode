@@ -33,6 +33,7 @@ LeetCode
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pragatidh/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pragatidh/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ LeetCode
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pragatidh/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/pragatidh/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pragatidh/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
