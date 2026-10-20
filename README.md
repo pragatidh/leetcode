@@ -15,6 +15,7 @@ LeetCode
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pragatidh/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pragatidh/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pragatidh/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/pragatidh/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ LeetCode
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pragatidh/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pragatidh/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pragatidh/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/pragatidh/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ LeetCode
 | [1096-brace-expansion-ii](https://github.com/pragatidh/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragatidh/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pragatidh/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/pragatidh/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -111,6 +114,7 @@ LeetCode
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pragatidh/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/pragatidh/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
