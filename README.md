@@ -66,6 +66,7 @@ LeetCode
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pragatidh/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pragatidh/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pragatidh/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/pragatidh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/pragatidh/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -148,6 +149,7 @@ LeetCode
 | [0678-valid-parenthesis-string](https://github.com/pragatidh/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pragatidh/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pragatidh/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/pragatidh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
 | ------- |
