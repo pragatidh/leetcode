@@ -89,6 +89,7 @@ LeetCode
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pragatidh/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pragatidh/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pragatidh/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pragatidh/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/pragatidh/leetcode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pragatidh/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
@@ -245,6 +246,7 @@ LeetCode
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/pragatidh/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pragatidh/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
