@@ -17,6 +17,7 @@ LeetCode
 | [1882-process-tasks-using-servers](https://github.com/pragatidh/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragatidh/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pragatidh/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pragatidh/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pragatidh/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pragatidh/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pragatidh/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -123,6 +124,7 @@ LeetCode
 | [1096-brace-expansion-ii](https://github.com/pragatidh/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pragatidh/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pragatidh/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pragatidh/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pragatidh/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pragatidh/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/pragatidh/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -162,6 +164,7 @@ LeetCode
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pragatidh/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pragatidh/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pragatidh/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pragatidh/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pragatidh/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
